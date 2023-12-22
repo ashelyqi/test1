@@ -18,7 +18,7 @@ from common.New_bleSpeek import New_bleSpeek
 # 6.直播连接成功率测试 (onLineConnect)
 # 7.wifi切换测试 (SwitchWifi)-----需要先连接过2个wifi，请在对应的函数下修改wifi1，wifi2的名称
 # 8.红外切换测试 (IRcardTest)
-# 9.绑定解绑测试 ---------  需要焊线比较麻烦，这个pengqi专门做压测
+# 9.绑定解绑测试 ---------  需要焊线比较麻烦，这个xxx专门做压测
 # 10.OTA挂机测试 ------- 需要门锁大版本是最新版本
 # 11.蓝牙长连接保持时长
 
@@ -27,7 +27,7 @@ from common.New_bleSpeek import New_bleSpeek
 # 注意：所有脚本都需要门锁是已上锁状态
 # 挂机数据在common/Logdir文件夹下
 # ********************************
-devicename = "peng"
+devicename = "pen"
 comName = "com17"
 a = 5
 
